@@ -7,3 +7,14 @@ h1{
 .title is-1 has-text-black{
     font-family: 'Nanum Myeongjo', serif;
 }
+
+a{
+    color: white;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    cursor: pointer;
+}

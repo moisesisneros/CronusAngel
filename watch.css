@@ -61,14 +61,14 @@
   width: 72px;
   left: -2px;
   position: absolute;
-  background-color: #363636;
+  background-color: black;
 }
 .watch-strap .strap-circle:before {
   content: "";
   display: block;
   height: 100%;
   width: 72px;
-  background-color: #363636;
+  background-color: black;
   position: absolute;
   right: -2px;
 }
